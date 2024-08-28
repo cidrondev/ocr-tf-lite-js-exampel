@@ -9,5 +9,5 @@ It works as followed:
 4. Read text of orignal image and cropped found text images with tesseract.js
 5. Print out the result
 
-Link to used tflite model: https://www.kaggle.com/models/spsayakpaul/east-text-detector/tfLite/fp16/1?tfhub-redirect=true  
+Link to used tflite model: https://www.kaggle.com/models/spsayakpaul/east-text-detector/tfLite
 Link to tesseract.js: https://tesseract.projectnaptha.com/
