@@ -1,5 +1,5 @@
 {
-  "name": "discgolfcabin",
+  "name": "OCRTfliteJSExampel",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,18 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tensorflow/tfjs-backend-cpu": "3.20.0",
+    "@tensorflow/tfjs-core": "3.20.0",
+    "@tensorflow/tfjs-tflite": "0.0.1-alpha.9",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "tesseract.js": "^5.0.1"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5"
   }
 }
