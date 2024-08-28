@@ -1,4 +1,4 @@
-#OCR tensorflow lite js exampel
+OCR tensorflow lite js exampel
 
 This is a exampel next.js app written with typescript that takes an image and reads it text contents.
 
